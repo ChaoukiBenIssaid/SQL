@@ -7,5 +7,8 @@ In this repisotory, I will showcase how to connect to a SQLite database and quer
 
 [Analyzing the Chinook Data](https://github.com/Chaoukib/SQL/blob/master/notebook_chinook.ipynb)
 
+[Designing and Creating a Database](https://github.com/Chaoukib/SQL/blob/master/notebook_games.ipynb)
+
+
 
 
