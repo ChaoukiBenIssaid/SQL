@@ -1,5 +1,5 @@
 # SQL
-In this repisotory, I will showcase how to connect to a SQLite database and query it using the python module 'sqlite3'.
+In this repisotory, I will showcase how to connect to a SQLite database and query it using the python module 'sqlite3'. To ensure that the notebooks are displayed, I'm using nbviewer to avoid any potential problem in case the notebooks are not well displayed on Github.
 
 - [Analyzing CIA Factbook Data](https://nbviewer.jupyter.org/github/Chaoukib/SQL/blob/master/notebook_factbook.ipynb)
 
